@@ -139,8 +139,8 @@
 		(function() {
 
 			// Vars.
-				var $form = document.querySelectorAll('#tlephone-form')[0],
-					$submit = document.querySelectorAll('#signup-form input[type="submit"]')[0],
+				var $form = document.querySelectorAll('#telephone-form')[0],
+					$submit = document.querySelectorAll('#telephone-form input[type="submit"]')[0],
 					$message;
 
 			// Bail if addEventListener isn't supported.
